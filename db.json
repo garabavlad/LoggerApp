@@ -1,5 +1,13 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "Flasky - Paypal service",
+      "tech": "Vlad @",
+      "attention": false,
+      "date": "2020-08-30T11:50:52.569Z",
+      "id": 1
+    }
+  ],
   "techs": [
     {
       "id": 2,
